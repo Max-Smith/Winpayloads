@@ -17,7 +17,7 @@ https://www.virustotal.com/en/file/23a24f99c3c6c00cd4bf6cb968f813ba2ceadfa846c7f
 * Powershell stager - allows invoking payloads in memory & more
 
 ## Getting Started
-1. ```git clone https://github.com/nccgroup/winpayloads.git```
+1. ```git clone https://github.com/Max-Smith/Winpayloads.git```
 2. ```cd winpayloads```
 3. ```./setup.sh``` will setup everything needed for Winpayloads
 4. Start Winpayloads ```./Winpayloads.py```  
